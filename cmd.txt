@@ -1,1 +1,1 @@
-{"DESKTOP-HN2KBMR":{"date":0,"cmd":"ping"}}
+{"DESKTOP-HN2KBMR":{"date":1,"cmd":"pc_restart"}}
