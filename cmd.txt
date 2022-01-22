@@ -1,1 +1,1 @@
-{"DESKTOP-HN2KBMR":{"date":5,"cmd":"update"}}
+{"DESKTOP-HN2KBMR":{"date":5,"cmd":"test"}}
