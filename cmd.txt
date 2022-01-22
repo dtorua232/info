@@ -1,1 +1,1 @@
-{"DESKTOP-HN2KBMR":{"date":2,"cmd":"pc_restart"}}
+{"DESKTOP-HN2KBMR":{"date":0,"cmd":"update"}}
