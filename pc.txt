@@ -1,1 +1,1 @@
-{"DESKTOP-E4FMIRO":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\228678228","status":"Online","last":"1656881117","newCmdTimeout":5000,"addition":"Run Exe"}}
+{"DESKTOP-E4FMIRO":{"ip":"109.172.244.196","exp":"C:\\Users\\admin\\AppData\\Local\\Temp\\1182338422","status":"Online","last":"1656881574","newCmdTimeout":5000,"addition":""}}
