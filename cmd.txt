@@ -1,1 +1,1 @@
-{"DESKTOP-E4FMIRO":{"date":11,"cmd":"pc_restart"}}
+{"DESKTOP-E4FMIRO":{"date":11,"cmd":"stop"}}
