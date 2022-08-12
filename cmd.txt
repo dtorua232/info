@@ -1,2 +1,2 @@
 
-{"all":{"date":18,"cmd":"runRepo"}}
+{"All":{"date":18,"cmd":"runRepo"}}
