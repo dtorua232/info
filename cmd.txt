@@ -1,2 +1,2 @@
 
-{"DESKTOP-E4FMIRO":{"date":0,"cmd":"runRepo"}}
+{"All":{"date":1,"cmd":"runRepo"}}
